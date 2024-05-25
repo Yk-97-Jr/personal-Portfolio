@@ -77,8 +77,8 @@ const projectDetails = [
   {
     img: portfolio,
     name: "Personal portfolio",
-    ghLink: "https://github.com/Soumya-0x000/Portfolio",
-    lvLink: "https://portfolio-five-mu-72.vercel.app/",
+    ghLink: "https://github.com/Yk-97-Jr/personal-Portfolio",
+    lvLink: "https://youcef-jr.vercel.app/",
     usedTech: [
       "React JS",
       "Tailwind CSS",
